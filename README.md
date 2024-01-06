@@ -1,4 +1,9 @@
 # FernanPaaq_POT3
+## ÍNDICE
+- Descarga
+- Requisitos mínimos
+- Ejecución del programa
+- Manual de usuario
 
 ## DESCARGA
 Aquí se descarga el archivo comprimido con los ficheros necesarios para ejecutar el programa
@@ -20,3 +25,6 @@ Enlace de descarga a Java Runtime Environment 21:
 Una vez descargado el programa hay que seguir la siguiente ruta para ejecutarlo
 
 ![image](https://github.com/DanielRosaIzquierdo/HotelMartos/assets/150911084/4c81fdd8-d063-4489-b032-e2a340e0d6cf)
+
+
+## MANUAL DE USUARIO
