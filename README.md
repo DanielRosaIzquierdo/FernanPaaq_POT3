@@ -124,3 +124,4 @@ Opcion 7
 Cerrar sesión 
  
 Nos pregunta si estamos seguros de cerrar la sesión si es así pulsamos la “Y” cualquier otra letra mantendrá la sesión iniciada
+hola que tal
