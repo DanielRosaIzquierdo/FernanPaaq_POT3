@@ -49,6 +49,7 @@ También están creados los conductores
 - Contraseña: 456
 - Usuario: PacoConductor
 - Contraseña: 789
+  
 Los datos de los usuarios creados por defecto se pueden modificar como se mostrara mas adelante.
  
 Si elegimos la opción 2 esta es la manera en la que podemos registrar un usuario
