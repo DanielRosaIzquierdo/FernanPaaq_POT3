@@ -29,23 +29,27 @@ Una vez descargado el programa hay que seguir la siguiente ruta para ejecutarlo
 
 ## MANUAL DE USUARIO
 Al iniciar la aplicación este será nuestro menú principal desde el que podemos registrarnos como un usuario e iniciar sesión solo se permiten 2 usuarios
+
+![image](https://github.com/DanielRosaIzquierdo/FernanPaaq_POT3/assets/150911084/05066754-840c-44c8-b896-8982a1149722)
+
  
 Por defectos está creado el administrador
-Usuario: admin
-Contraseña: 1234
+-Usuario: admin
+-Contraseña: 1234
 
 También están creados los conductores
-Usuario: JoseConductor 
-Contraseña: 123
-Usuario: MiguelConductor
-Contraseña: 456
-Usuario: PacoConductor
-Contraseña: 789
+-Usuario: JoseConductor 
+-Contraseña: 123
+-Usuario: MiguelConductor
+-Contraseña: 456
+-Usuario: PacoConductor
+-Contraseña: 789
 Los datos de los usuarios creados por defecto se pueden modificar como se mostrara mas adelante.
  
 Si elegimos la opción 2 esta es la manera en la que podemos registrar un usuario
 
 
+![image](https://github.com/DanielRosaIzquierdo/FernanPaaq_POT3/assets/150911084/2fcc40e1-cd9b-4883-a81d-86ada28a4809)
 
 
 
@@ -56,9 +60,14 @@ Si elegimos la opción 2 esta es la manera en la que podemos registrar un usuari
 
 
 Si le damos a iniciar sesión nos aparece la siguiente pantalla
- 
+
+![image](https://github.com/DanielRosaIzquierdo/FernanPaaq_POT3/assets/150911084/24378809-483e-493d-965f-64041cc33e8f)
+
 En este caso vamos a iniciar como administrador
- 
+
+![image](https://github.com/DanielRosaIzquierdo/FernanPaaq_POT3/assets/150911084/5e741d1c-214d-45a0-8973-ccf2175b8063)
+
+
 Estos son las opciones del menú de administración
  
 Opción 1 
