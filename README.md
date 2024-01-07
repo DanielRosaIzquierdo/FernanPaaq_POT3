@@ -74,7 +74,7 @@ En este caso vamos a iniciar como administrador
 ![image](https://github.com/DanielRosaIzquierdo/FernanPaaq_POT3/assets/150911084/5e741d1c-214d-45a0-8973-ccf2175b8063)
 
 
-### Estos son las opciones del menú de administración
+Estas son las opciones del menú de administración
  
 - Opción 1 
 Nos permite registrar un nuevo envió, le introducimos el usuario (TIENE QUE ESTAR PREVIAMENTE CREADO) y un numero de seguimiento a cada usuario solo se pueden asignar 2 envíos
